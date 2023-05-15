@@ -42,7 +42,7 @@ task4();
             sum+=arr[i];
         }
         double average = sum / arr.length;
-        System.out.println("Средняя сумма трат за месяц составила " + average + " рублей");
+        System.out.println("Средняя сумма трат за месяц составила " + average + " рублей.");
     }
     private static void task4(){
         char[] reverseFullName = { 'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
